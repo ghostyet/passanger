@@ -1,7 +1,8 @@
- let fighters = ["🐉", "🐥", "🐊","💩", "🦍", "🐢", "🐩", "🦭", "🦀", 
+"use strict";
+const fighters = ["🐉", "🐥", "🐊","💩", "🦍", "🐢", "🐩", "🦭", "🦀", 
     "🐝", "🤖", "🐘", "🐸", "🕷","🐆", "🦕", "🦁"]
 
-let stageEl=document.getElementById("stage-el")
+const stageEl=document.getElementById("stage-el")
 
 
 gameStarts.addEventListener (  "click", function(){
