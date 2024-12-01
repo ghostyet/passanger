@@ -15,7 +15,7 @@ gameStarts.addEventListener (  "click", function(){
     })
 
     const fruits=["🍎","🍎","🍎","🍎","🍊","🍊","🍊","🍊","🍊","🍑","🍑","🍑","🍑",
-        "🍌","🍌","🍌","🍌","","","","","",""]
+        "🍌","🍌","🍌","🍌","🍌","🍌","🍌","🍊","🍊","🍑"]
 
 
 
@@ -40,7 +40,7 @@ else if(fruits[i]==="🍑"){
 }
 
 else if(fruits[i]==="🍌"){
-    bananaShelf.textContent🍌
+    bananaShelf.textContent+="🍌"
 
 
 
