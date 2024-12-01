@@ -1,16 +1,14 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
 
 /* Basic Reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+body{
+    
+ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 /* Styling the Navigation Bar */
@@ -50,4 +48,48 @@ nav ul li a:hover {
     nav ul li {
         margin: 10px 0;
     }
+}
+
+
+
+#apple-shelf {
+    background: lightcoral;
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 0;
+}
+
+#orange-shelf {
+    background: lightsalmon;
+    border-radius: 10px;
+    height: 30px;
+}
+
+
+#mango-shelf {
+    margin-top: 7px;
+    background: lightsalmon;
+    border-radius: 10px;
+    height: 30px;
+}
+
+
+#burger-shelf {
+    margin-top: 7px;
+    background: lightsalmon;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#banana-shelf {
+    margin-top: 7px;
+    background: lightsalmon;
+    border-radius: 10px;
+    height: 30px;
+}
+#msabibu-shelf {
+    margin-top: 7px;
+    background: lightsalmon;
+    border-radius: 10px;
+    height: 30px;
 }
